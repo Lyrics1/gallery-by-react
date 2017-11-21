@@ -1,4 +1,4 @@
-[
+var data= [
   {
     "fileName" : "1.jpg",
     "title" :"More and Better" ,
@@ -48,7 +48,7 @@
     "description"  : "This is my gallary ,welcome !"
 
   }
-
-
-
 ]
+
+
+module.exports = data;
