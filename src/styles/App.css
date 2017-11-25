@@ -80,7 +80,7 @@ img{
    z-index: 111;
   margin:10% 10%;
 
-  overflow: hidden;
-  clear: both;
+  /*overflow: hidden;
+  clear: both;*/
   /*display: none;*/
 }
